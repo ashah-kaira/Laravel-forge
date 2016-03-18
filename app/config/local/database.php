@@ -22,7 +22,7 @@ return array(
 
 		'mysql' => array(
 			'driver'    => 'mysql',
-			'host'      => '54.208.79.53',
+			'host'      => '52.201.214.231',
 			'database'  => 'forge',
 			'username'  => 'forge',
 			'password'  => 'jKRbJIjJHSwCgZ2WJxj1',
